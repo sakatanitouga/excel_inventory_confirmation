@@ -1,0 +1,2 @@
+# excel_inventory_confirmation
+電子パーツの在庫を確認を行う
